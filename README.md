@@ -2,7 +2,7 @@
 
 A professional Power BI dashboard designed to provide actionable insights into vendor performance, profitability, procurement trends, and product analysis across different vendor categories and regions.
 
-📌 Live Project Link: Vendor Performance Dashboard on Power BI
+📌 Live Project Link: https://app.powerbi.com/links/TFss6ppQ4B?ctid=678c052f-33c4-475b-b599-bcc8732006df&pbi_source=linkShare
 
 🧠 Project Overview
 
