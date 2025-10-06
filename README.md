@@ -1,4 +1,4 @@
-📊 Vendor Performance Dashboard & Procurement Insights
+📊 Vendor Performance Analysis
 
 A professional Power BI dashboard designed to provide actionable insights into vendor performance, profitability, procurement trends, and product analysis across different vendor categories and regions.
 
